@@ -8,4 +8,4 @@ hello git hello ghc
 hello git hello ghc
 hello git hello ghc
 hello git hello ghc
-hello git hello ghc
+hello git hello ghc  master-test
