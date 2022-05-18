@@ -9,3 +9,4 @@ hello git hello ghc
 hello git hello ghc
 hello git hello ghc
 hello git hello ghc  master-test
+在github端添加----------到本地库去同步
